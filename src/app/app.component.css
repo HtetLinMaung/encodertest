@@ -1,0 +1,12 @@
+.root {
+  height: 100vh;
+}
+.flex {
+  height: 50%;
+  display: flex;
+}
+.video-box {
+  flex: 1;
+ 
+  margin: 1rem;
+}
